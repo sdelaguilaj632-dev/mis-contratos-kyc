@@ -138,6 +138,8 @@
     "autoriza_datos": "Autorizo",
     "declara_juramento": "Declaro",
     "no_declaro_razon": "",
-    "fecha": "10/8/2026"
+    "fecha": "10/8/2026",
+    "conyuge_nombre": "Conyugue Prueba",
+    "conyuge_doc": "87878787"
   }
 ]
