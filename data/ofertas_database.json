@@ -1,1 +1,33 @@
-
+[
+  {
+    "id": "OFR-327823",
+    "cliente": "A",
+    "asesor": "Master",
+    "asesorDni": "00000000",
+    "codigoAsesor": "0000",
+    "tipoInversion": "Fondo de Inversión Privado",
+    "producto": "FIP Victoria I",
+    "fondo": "FIP Victoria I",
+    "empresa": "FIP Victoria I",
+    "moneda": "USD",
+    "cuotaId": "fip_victoria_1_serie_e",
+    "serie": "Serie E",
+    "cuotaNombre": "Serie E",
+    "plazo": "360 días",
+    "tasaFija": 8,
+    "valorNominal": 1000,
+    "numCuotas": 5,
+    "montoInversion": 5000,
+    "periodicidad": "Mensual",
+    "tipoInteres": "Anual",
+    "retornoCapital": "Al vencimiento (fijo)",
+    "condicionesRdp": true,
+    "interesAnual": 400,
+    "retornoTotal": 5400,
+    "inversionMinima": "$ 5000 (5 cuotas)",
+    "fecha": "24 ago. 2026",
+    "dni": "44444444",
+    "num_doc": "44444444",
+    "tipo_doc": "DNI"
+  }
+]
