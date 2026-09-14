@@ -24,8 +24,8 @@
     "celular": "",
     "telefono_fijo": "",
     "email": "",
-    "estado_civil": "Soltero(a)",
-    "regimen_patrimonial": "N/A",
+    "estado_civil": "Casado(a)",
+    "regimen_patrimonial": "Sociedad de gananciales",
     "situacion_laboral": "",
     "ocupacion_cargo": "",
     "empleador_nombre": "",
@@ -49,12 +49,13 @@
     "no_declaro_razon": "",
     "fecha": "14/9/2026",
     "hora_inicio": "10:51:40 a. m.",
-    "hora_fin": "10:51:41 a. m.",
+    "hora_fin": "10:51:46 a. m.",
     "apellido_paterno": "",
     "apellido_materno": "",
     "tiene_otra_nacionalidad": "No",
     "otra_nacionalidad": "",
-    "tipo_moneda_cuenta": "Soles"
+    "tipo_moneda_cuenta": "Soles",
+    "conyuge_tipo_doc": "DNI"
   },
   {
     "id": "V0147",
