@@ -54,8 +54,8 @@
     "apellido_materno": "",
     "tiene_otra_nacionalidad": "No",
     "otra_nacionalidad": "",
-    "tipo_moneda_cuenta": "Soles",
-    "conyuge_tipo_doc": "DNI"
+    "conyuge_tipo_doc": "DNI",
+    "tipo_moneda_cuenta": "Soles"
   },
   {
     "id": "V0147",
