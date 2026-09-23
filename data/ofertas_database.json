@@ -1,6 +1,6 @@
 [
   {
-    "id": "OFR-639056",
+    "id": "OFR-132704",
     "cliente": "JULIO DEYVIS REVOREDO MENDOZA",
     "codigoCliente": "V0120",
     "asesor": "Fernando Arturo Yañez Núñez",
@@ -15,7 +15,7 @@
     "serie": "Serie E - Dólares",
     "cuotaNombre": "Serie E - Dólares",
     "plazo": "1080 días",
-    "tasaFija": 10,
+    "tasaFija": 8,
     "valorNominal": 6000,
     "numCuotas": 3,
     "montoInversion": 18000,
@@ -23,8 +23,8 @@
     "tipoInteres": "Anual",
     "retornoCapital": "Al vencimiento (fijo)",
     "condicionesRdp": true,
-    "interesAnual": 1800,
-    "retornoTotal": 2000,
+    "interesAnual": 1440,
+    "retornoTotal": 19440,
     "inversionMinima": "$ 12,000 (2 cuotas)",
     "fecha": "22 set. 2026",
     "dni": "44288188",
