@@ -28,8 +28,8 @@
     "celular": "999439937",
     "telefono_fijo": "",
     "email": "whtello@gmail.com",
-    "estado_civil": "Soltero(a)",
-    "regimen_patrimonial": "N/A",
+    "estado_civil": "Casado(a)",
+    "regimen_patrimonial": "Sociedad de gananciales",
     "fecha_inicio_regimen_patrimonial": "",
     "situacion_laboral": "Dependiente",
     "ocupacion_cargo": "Ingeniero",
@@ -63,7 +63,8 @@
     "no_declaro_razon": "",
     "fecha": "28/9/2026",
     "hora_inicio": "04:40:07 p. m.",
-    "hora_fin": "04:44:38 p. m."
+    "hora_fin": "04:44:41 p. m.",
+    "conyuge_tipo_doc": "DNI"
   },
   {
     "id": "V0152",
