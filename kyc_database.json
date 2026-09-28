@@ -63,14 +63,21 @@
     "no_declaro_razon": "",
     "fecha": "28/9/2026",
     "hora_inicio": "04:40:07 p. m.",
-    "hora_fin": "04:49:24 p. m.",
+    "hora_fin": "04:51:40 p. m.",
     "conyuge_nombre": "Marlene Mori",
     "conyuge_tipo_doc": "DNI",
     "conyuge_doc": "06033817",
     "conyuge_fecha_nac": "18/01/1963",
     "conyuge_ciudad_nac": "Lima",
     "conyuge_pais_nac": "Perú",
-    "tercero_nombre": "MARLENE MORI"
+    "tercero_nombre": "MARLENE MORI",
+    "beneficiario_tipo_doc": "DNI",
+    "beneficiario_pais_nacimiento": "Perú",
+    "beneficiario_pais_residencia": "Perú",
+    "beneficiario_domicilio": "Av. José Pardo 537 dpto. 1101",
+    "beneficiario_celular": "999888882",
+    "beneficiario_email": "maelmori@hotmail.com",
+    "beneficiario_conyuge_tipo_doc": "DNI"
   },
   {
     "id": "V0152",
