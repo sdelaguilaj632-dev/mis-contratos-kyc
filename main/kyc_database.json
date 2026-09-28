@@ -36,7 +36,7 @@
     "empleador_nombre": "RENIEC",
     "empresa_direccion": "Jr. Bolivia N° 109 (Torre del Centro Cívico), Cercado de Lima",
     "tiempo_servicio": "15 años 0 meses",
-    "ingreso_mensual_cliente": "",
+    "ingreso_mensual_cliente": "6000",
     "beneficiario_final": "",
     "contacto_emergencia_nombre": "",
     "contacto_emergencia_direccion": "",
@@ -63,7 +63,7 @@
     "no_declaro_razon": "",
     "fecha": "28/9/2026",
     "hora_inicio": "04:40:07 p. m.",
-    "hora_fin": "04:44:35 p. m."
+    "hora_fin": "04:44:38 p. m."
   },
   {
     "id": "V0152",
