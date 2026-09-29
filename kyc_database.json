@@ -49,7 +49,7 @@
     "no_declaro_razon": "",
     "fecha": "28/9/2026",
     "hora_inicio": "07:48:05 p. m.",
-    "hora_fin": "07:49:13 p. m.",
+    "hora_fin": "07:49:16 p. m.",
     "apellido_paterno": "Tello",
     "apellido_materno": "Soto",
     "tiene_otra_nacionalidad": "No",
@@ -64,7 +64,11 @@
     "vinculacion_victoria_categoria": "",
     "vinculacion_victoria_detalle": "",
     "tipo_moneda_cuenta": "Soles",
-    "nombre_completo": "Wilsonhernan Tello Soto"
+    "nombre_completo": "Wilsonhernan Tello Soto",
+    "beneficiario_tipo_doc": "DNI",
+    "beneficiario_pais_nacimiento": "Perú",
+    "beneficiario_pais_residencia": "Perú",
+    "beneficiario_conyuge_tipo_doc": "DNI"
   },
   {
     "id": "V0152",
