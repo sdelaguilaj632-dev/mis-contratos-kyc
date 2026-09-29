@@ -63,7 +63,11 @@
     "no_declaro_razon": "",
     "fecha": "28/9/2026",
     "hora_inicio": "05:53:15 p. m.",
-    "hora_fin": "07:03:58 p. m."
+    "hora_fin": "07:04:07 p. m.",
+    "beneficiario_tipo_doc": "DNI",
+    "beneficiario_pais_nacimiento": "Perú",
+    "beneficiario_pais_residencia": "Perú",
+    "beneficiario_conyuge_tipo_doc": "DNI"
   },
   {
     "id": "V0152",
