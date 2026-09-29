@@ -7,7 +7,7 @@
     "id_empresa": 4,
     "empresa_nombre": "Lunafish Capital",
     "dni": "07223604",
-    "nombres": "Wilsonhernan",
+    "nombres": "Wilson Hernan",
     "apellidos": "Tello Soto",
     "sexo": "Masculino",
     "nivel_instruccion": "Superior Completa",
@@ -36,10 +36,10 @@
     "pep_cargo": "No",
     "pep_detalle": "",
     "origen_fondos": "",
-    "banco_soles_nombre": "",
+    "banco_soles_nombre": "N/A",
     "banco_soles_cuenta": "",
     "banco_soles_cci": "",
-    "banco_usd_nombre": "",
+    "banco_usd_nombre": "N/A",
     "banco_usd_cuenta": "",
     "banco_usd_cci": "",
     "producto_inversion": "",
@@ -68,7 +68,7 @@
     "beneficiario_pais_nacimiento": "Perú",
     "beneficiario_pais_residencia": "Perú",
     "beneficiario_conyuge_tipo_doc": "DNI",
-    "nombre_completo": "Wilsonhernan Tello Soto"
+    "nombre_completo": "Wilson Hernan Tello Soto"
   },
   {
     "id": "V0152",
