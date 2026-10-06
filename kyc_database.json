@@ -499,8 +499,8 @@
   {
     "id": "V0154",
     "codigo_cliente": "V0154",
-    "registrado": true,
-    "estado_registro": "registrado",
+    "registrado": false,
+    "estado_registro": "incompleto",
     "id_empresa": 4,
     "empresa_nombre": "Lunafish Capital",
     "dni": "09852389",
@@ -541,12 +541,12 @@
     "banco_usd_cci": "00385401314306298277",
     "producto_inversion": "Fondos de Inversion",
     "referido_por": "Marlene Elizabeth Mori Rivera",
-    "autoriza_datos": "Autorizo",
-    "declara_juramento": "Declaro",
+    "autoriza_datos": "",
+    "declara_juramento": "",
     "no_declaro_razon": "",
     "fecha": "2/10/2026",
     "hora_inicio": "06:09:24 p. m.",
-    "hora_fin": "08:39:04 p. m.",
+    "hora_fin": "08:38:29 p. m.",
     "apellido_paterno": "Vassi",
     "apellido_materno": "Ugaz",
     "tiene_otra_nacionalidad": "No",
@@ -572,9 +572,7 @@
     "tercero_nombre": "Carolina Cabada Vassi",
     "conyuge_doc": "09276378",
     "conyuge_ciudad_nac": "Lima",
-    "conyuge_pais_nac": "Perú",
-    "beneficiario_domicilio": "Monte Alegre 151 Surco",
-    "beneficiario_celular": "969 577 178"
+    "conyuge_pais_nac": "Perú"
   },
   {
     "id": "V0133",
