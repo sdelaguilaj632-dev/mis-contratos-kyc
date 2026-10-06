@@ -546,13 +546,13 @@
     "no_declaro_razon": "",
     "fecha": "2/10/2026",
     "hora_inicio": "06:09:24 p. m.",
-    "hora_fin": "08:28:42 p. m.",
+    "hora_fin": "08:34:38 p. m.",
     "apellido_paterno": "Vassi",
     "apellido_materno": "Ugaz",
     "tiene_otra_nacionalidad": "No",
     "otra_nacionalidad": "",
     "fecha_inicio_regimen_patrimonial": "",
-    "contacto_emergencia_nombre": "",
+    "contacto_emergencia_nombre": "Carolina Cabada Vassi",
     "contacto_emergencia_direccion": "Monte Alegre 151 Surco",
     "contacto_emergencia_telefono": "",
     "contacto_emergencia_email": "",
@@ -568,7 +568,8 @@
     "nombre_completo": "Ana Carolina Assi Ugaz Vassi Ugaz",
     "conyuge_nombre": "Alexander Francisco Assin Ruiz",
     "conyuge_tipo_doc": "DNI",
-    "conyuge_fecha_nac": "02/04"
+    "conyuge_fecha_nac": "02/04",
+    "tercero_nombre": "Carolina Cabada Vassi"
   },
   {
     "id": "V0133",
