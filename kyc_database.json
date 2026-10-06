@@ -2,8 +2,8 @@
   {
     "id": "V0154",
     "codigo_cliente": "V0154",
-    "registrado": false,
-    "estado_registro": "incompleto",
+    "registrado": true,
+    "estado_registro": "registrado",
     "id_empresa": 4,
     "empresa_nombre": "Lunafish Capital",
     "dni": "09852389",
@@ -75,7 +75,11 @@
     "tercero_nombre": "Carolina Cabada Vassi",
     "conyuge_doc": "09276378",
     "conyuge_ciudad_nac": "Lima",
-    "conyuge_pais_nac": "Perú"
+    "conyuge_pais_nac": "Perú",
+    "empresa_distrito": "San Isidro",
+    "empresa_provincia": "Lima",
+    "empresa_departamento": "Lima",
+    "empresa_pais": "Peru"
   },
   {
     "id": "V0144",
