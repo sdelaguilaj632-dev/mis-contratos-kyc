@@ -4361,5 +4361,29 @@
     "beneficiario_celular": "999888882",
     "beneficiario_email": "maelmori@hotmail.com",
     "beneficiario_conyuge_tipo_doc": "DNI"
+  },
+  {
+    "id": "V0106",
+    "codigo_cliente": "V0106",
+    "id_empresa": 3,
+    "empresa_nombre": "Victoria Fondos",
+    "dni": "",
+    "nombres": "MARCELINA MARGOT",
+    "apellidos": "QUINTANA TORRES",
+    "apellido_paterno": "QUINTANA",
+    "apellido_materno": "TORRES",
+    "tipo_doc": "DNI",
+    "pais_nacimiento": "Perú",
+    "pais_residencia": "Perú",
+    "email": "mquintana111@hotmail.com",
+    "beneficiario_final": "Si, yo soy el beneficiario final",
+    "pep_cargo": "No",
+    "referido_por": "Guillermo Valdivia",
+    "autoriza_datos": "Autorizo",
+    "declara_juramento": "Declaro",
+    "fecha": "24/8/2026",
+    "registrado": false,
+    "estado_registro": "incompleto",
+    "nombre_completo": "Marcelina Margot Quintana Torres"
   }
 ]
