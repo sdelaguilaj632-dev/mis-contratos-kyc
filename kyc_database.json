@@ -546,7 +546,7 @@
     "no_declaro_razon": "",
     "fecha": "2/10/2026",
     "hora_inicio": "06:09:24 p. m.",
-    "hora_fin": "08:36:44 p. m.",
+    "hora_fin": "08:35:37 p. m.",
     "apellido_paterno": "Vassi",
     "apellido_materno": "Ugaz",
     "tiene_otra_nacionalidad": "No",
@@ -569,8 +569,7 @@
     "conyuge_nombre": "Alexander Francisco Asin Ruiz",
     "conyuge_tipo_doc": "DNI",
     "conyuge_fecha_nac": "02/04",
-    "tercero_nombre": "Carolina Cabada Vassi",
-    "conyuge_doc": "09276378"
+    "tercero_nombre": "Carolina Cabada Vassi"
   },
   {
     "id": "V0133",
