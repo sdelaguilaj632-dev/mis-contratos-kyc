@@ -546,7 +546,7 @@
     "no_declaro_razon": "",
     "fecha": "2/10/2026",
     "hora_inicio": "06:09:24 p. m.",
-    "hora_fin": "08:26:30 p. m.",
+    "hora_fin": "08:26:51 p. m.",
     "apellido_paterno": "Vassi",
     "apellido_materno": "Ugaz",
     "tiene_otra_nacionalidad": "No",
@@ -566,7 +566,8 @@
     "beneficiario_pais_residencia": "Perú",
     "beneficiario_conyuge_tipo_doc": "DNI",
     "nombre_completo": "Ana Carolina Assi Ugaz Vassi Ugaz",
-    "conyuge_tipo_doc": "DNI"
+    "conyuge_tipo_doc": "DNI",
+    "conyuge_nombre": "Alexander"
   },
   {
     "id": "V0133",
