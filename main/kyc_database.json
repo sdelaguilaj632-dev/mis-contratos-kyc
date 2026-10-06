@@ -504,7 +504,7 @@
     "id_empresa": 4,
     "empresa_nombre": "Lunafish Capital",
     "dni": "09852389",
-    "nombres": "",
+    "nombres": "Ana Carolina Vassi Ugaz",
     "apellidos": "",
     "sexo": "Masculino",
     "nivel_instruccion": "Superior Completa",
@@ -546,7 +546,7 @@
     "no_declaro_razon": "",
     "fecha": "2/10/2026",
     "hora_inicio": "06:09:24 p. m.",
-    "hora_fin": "08:08:24 p. m.",
+    "hora_fin": "08:14:44 p. m.",
     "apellido_paterno": "",
     "apellido_materno": "",
     "tiene_otra_nacionalidad": "No",
@@ -564,7 +564,8 @@
     "beneficiario_tipo_doc": "DNI",
     "beneficiario_pais_nacimiento": "Perú",
     "beneficiario_pais_residencia": "Perú",
-    "beneficiario_conyuge_tipo_doc": "DNI"
+    "beneficiario_conyuge_tipo_doc": "DNI",
+    "nombre_completo": "Ana Carolina Vassi Ugaz"
   },
   {
     "id": "V0133",
