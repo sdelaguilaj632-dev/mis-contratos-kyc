@@ -521,7 +521,7 @@
     "celular": "996992101",
     "telefono_fijo": "",
     "email": "vassi.carolina@gmail.com",
-    "estado_civil": "Soltero(a)",
+    "estado_civil": "Casado(a)",
     "regimen_patrimonial": "N/A",
     "situacion_laboral": "Dependiente",
     "ocupacion_cargo": "Jefe Comercial",
@@ -546,7 +546,7 @@
     "no_declaro_razon": "",
     "fecha": "2/10/2026",
     "hora_inicio": "06:09:24 p. m.",
-    "hora_fin": "08:26:17 p. m.",
+    "hora_fin": "08:26:25 p. m.",
     "apellido_paterno": "Vassi",
     "apellido_materno": "Ugaz",
     "tiene_otra_nacionalidad": "No",
@@ -565,7 +565,8 @@
     "beneficiario_pais_nacimiento": "Perú",
     "beneficiario_pais_residencia": "Perú",
     "beneficiario_conyuge_tipo_doc": "DNI",
-    "nombre_completo": "Ana Carolina Assi Ugaz Vassi Ugaz"
+    "nombre_completo": "Ana Carolina Assi Ugaz Vassi Ugaz",
+    "conyuge_tipo_doc": "DNI"
   },
   {
     "id": "V0133",
