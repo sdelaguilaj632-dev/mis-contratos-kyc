@@ -546,7 +546,7 @@
     "no_declaro_razon": "",
     "fecha": "2/10/2026",
     "hora_inicio": "06:09:24 p. m.",
-    "hora_fin": "08:37:00 p. m.",
+    "hora_fin": "08:36:48 p. m.",
     "apellido_paterno": "Vassi",
     "apellido_materno": "Ugaz",
     "tiene_otra_nacionalidad": "No",
@@ -570,9 +570,7 @@
     "conyuge_tipo_doc": "DNI",
     "conyuge_fecha_nac": "02/04/1968",
     "tercero_nombre": "Carolina Cabada Vassi",
-    "conyuge_doc": "09276378",
-    "conyuge_ciudad_nac": "Lima",
-    "conyuge_pais_nac": "Perú"
+    "conyuge_doc": "09276378"
   },
   {
     "id": "V0133",
